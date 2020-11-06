@@ -1,2 +1,2 @@
 ## deepfake_detection
-Marten Thompon
+Marten Thompson
